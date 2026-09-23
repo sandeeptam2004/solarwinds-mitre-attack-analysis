@@ -1,0 +1,29 @@
+Sources Used for This Analysis
+================================
+
+This project is a desk-research threat intelligence report, not a
+hands-on technical lab. No live exploitation, malware samples, or
+victim systems were involved. All technique mappings below are drawn
+from publicly available incident response reporting.
+
+Primary sources:
+1. FireEye/Mandiant blog: "Highly Evasive Attacker Leverages
+   SolarWinds Supply Chain to Compromise Multiple Global Victims With
+   SUNBURST Backdoor" (December 2020)
+   https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html
+
+2. Picus Security: "Tactics, Techniques, and Procedures (TTPs) Used in
+   the SolarWinds Breach"
+   https://www.picussecurity.com/resource/blog/ttps-used-in-the-solarwinds-breach
+
+3. Microsoft Security Response Center: "Customer Guidance on Recent
+   Nation-State Cyber Attacks" (December 2020)
+   https://msrc-blog.microsoft.com/2020/12/13/customer-guidance-on-recent-nation-state-cyber-attacks/
+
+4. MITRE ATT&CK for Enterprise (technique reference)
+   https://attack.mitre.org/techniques/enterprise/
+
+Tool used for visualization:
+- MITRE ATT&CK Navigator (https://mitre-attack.github.io/attack-navigator/)
+  used to build a visual layer showing all mapped techniques across
+  the nine tactics covered in the README.
